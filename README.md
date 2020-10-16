@@ -1,6 +1,6 @@
-# react/Next用dockerサンプル
+# laravel用dockerサンプル
 
-react/Nextの環境をdockerで用意しました。
+laravelの環境をdockerで用意しました。
 
 ## 初回構築
 ```
